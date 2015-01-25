@@ -1,0 +1,5 @@
+name: dart_forward_pipe
+author: sliversniper<sliv.linux@gmail.com>
+version: 0.0.1
+description: Scalaz/F# like forward-pipe operator utility
+homepage: https://github.com/ManJimmy/dart_forward_pipe
